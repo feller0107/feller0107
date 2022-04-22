@@ -10,7 +10,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
  <br><br></h1>
 <p align="center">
- <a href="https://app.daily.dev/wholespace"><img src="https://github.com/wholespace/wholespace/blob/main/devcard.svg" width="400" alt="Naruhito Takei's Dev Card"/></a>
 </p>
 </br>
 <h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
@@ -65,7 +64,7 @@ Enthusiastic Web Developer who loves to create effective websites and work with 
 <hr>
 <br>
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
+<img align="right" alt="GIF" src="https://github.com/dev-gif/Water-Monitoring-System/blob/master/assets/logo.gif?raw=true" width="50%" />
 ⚡A clean responsive code that will be well displayed in any browser and adapted to any device of any resolution, be it a phone or a tablet, or a widescreen device.<br>
 ⚡Fast response and good communication skills.<br>
 ⚡well-organized/commented code.<br>
@@ -79,11 +78,6 @@ Alone we can do so little; together we can do so much.
 </p>
 </div>
 
-<hr/>
-
-<h2 align="center"> 👯Let's go together!👯 </h2>
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
-<hr>
 <br>
 
 <h4 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h4>
@@ -122,9 +116,6 @@ Alone we can do so little; together we can do so much.
   </a>
   <a href="https://d3js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" height="25"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" height="25"/>
   </a>
   <a href="https://www.electronjs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" height="25"/>
