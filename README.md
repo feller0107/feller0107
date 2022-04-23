@@ -12,6 +12,7 @@
 <p align="center">
 </p>
 </br>
+<img align="center" alt="GIF" src="https://github.com/dev-gif/Water-Monitoring-System/blob/master/assets/logo.gif?raw=true" width="50%" />
 <h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
 <h4 align="center">👯Let's make "Success" Together!👯</h4><br>
  The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
@@ -218,23 +219,10 @@ Alone we can do so little; together we can do so much.
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/wholespace" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=wholespace&theme=react&border=61dafb&hide_border=true" alt="webpointdev" />
-    </a>
-    <a href="https://github.com/wholespace" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=wholespace&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/wholespace">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wholespace&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  <br><br><br>
   
   </div>
   
-<a href="https://github.com/wholespace"><img src="https://activity-graph.herokuapp.com/graph?username=wholespace&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/></a>
+<a href="https://github.com/wholespace"><img src="https://activity-graph.herokuapp.com/graph?username=Feller0107&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/></a>
   
   <br>
 </p>
