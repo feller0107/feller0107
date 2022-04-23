@@ -11,8 +11,9 @@
  <br><br></h1>
 <p align="center">
 </p>
-</br><img align="left" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif?raw=true" width="50%" />
-<h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
+</br>
+<h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3>
+<img align="left" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif?raw=true" width="50%" />
 <h4 align="center">👯Let's make "Success" Together!👯</h4><br>
  The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
 Enthusiastic Web Developer who loves to create effective websites and work with businesses to help them grow.
@@ -23,6 +24,11 @@ Enthusiastic Web Developer who loves to create effective websites and work with 
 <p>I consider myself a person who follows modern web development practices and new technologies.</p>
 <p>So, this list will be uniformly updated as I never stop learning.</p>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
