@@ -11,7 +11,7 @@
  <br><br></h1>
 <p align="center">
 </p>
-</br>
+</br><img align="left" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif?raw=true" width="50%" />
 <h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
 <h4 align="center">👯Let's make "Success" Together!👯</h4><br>
  The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
