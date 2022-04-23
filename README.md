@@ -12,7 +12,6 @@
 <p align="center">
 </p>
 </br>
-<img align="center" alt="GIF" src="https://github.com/dev-gif/Water-Monitoring-System/blob/master/assets/logo.gif?raw=true" width="50%" />
 <h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
 <h4 align="center">👯Let's make "Success" Together!👯</h4><br>
  The way a page appears and the design of the website that users see and interact with may make your business fall or grow!
